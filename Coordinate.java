@@ -50,10 +50,6 @@ public class Coordinates {
         }
     }
 
-    /**
-     * Display coordinates as a string
-     * @return formatted string
-     */
     public String display() {
         return "X = " + x + ", Y = " + y;
     }
